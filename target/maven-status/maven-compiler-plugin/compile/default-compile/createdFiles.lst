@@ -1,0 +1,5 @@
+co\unicauca\conferenceprototype\conferenceprototype\domain\Participant.class
+co\unicauca\conferenceprototype\conferenceprototype\domain\Session.class
+main\Client.class
+co\unicauca\conferenceprototype\conferenceprototype\domain\Workshop.class
+co\unicauca\conferenceprototype\conferenceprototype\domain\ConferencePrototype.class
